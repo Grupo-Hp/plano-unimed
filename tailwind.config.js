@@ -21,7 +21,11 @@ module.exports = {
           60: '#0A5F55',
           70: '#682D00',
         },
-      }
+        transparent: 'transparent'
+      },
+      fontSize: {
+        super: '12rem'
+      },
     },
   },
   plugins: [],
