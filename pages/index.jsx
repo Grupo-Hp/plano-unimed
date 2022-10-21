@@ -7,6 +7,7 @@ import Cards from '../components/Cards'
 import Info2 from '../components/Info2'
 import Info3 from '../components/Info3'
 import Nav from '../components/Nav'
+import Contato from '../components/Contato'
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
       <Info2 />
       <Faixa2 />
       <Info3 />
+      <Contato button='enviar' display='hidden' />
       <Footer />
     </>
   )
