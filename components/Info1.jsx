@@ -8,7 +8,7 @@ export default function Info1() {
                 <div className="col-span-2 lg:col-span-1 contatoImage3 bg-right"></div>
                 <div className="col-span-2 lg:col-span-1 w-3/4 mx-auto text-center py-16">
 
-                    <p className="uppercase border-b-4 pb-2 text-lg border-primary-10 text-center lg:text-left">simulador de planos amil saúde rio</p>
+                    <p className="uppercase border-b-4 pb-2 text-lg border-primary-10 text-center lg:text-left">simulador de planos Unimed Rio</p>
                     <h1 className="text-3xl mt-10 font-light lg:text-left">Planos a partir de</h1>
 
                     <div className="text-primary-10 font-bold text-center">
@@ -17,7 +17,7 @@ export default function Info1() {
                     </div>
 
                     <p className="text-3xl font-light lg:text-end mb-5 lg:pr-3">Economize até 40% </p>
-                    <p className="text-center text-gray-600 text-xl">Valores para o plano de saúde na linha empresarial Amil Fácil.</p>
+                    <p className="text-center text-gray-600 text-xl">Valores para o plano de saúde na linha empresarial Unimed.</p>
                     <p className="text-center text-gray-600 text-xl">*De 0 à 18 Anos para o Rio de Janeiro</p>
 
                     <div className="mt-10">
@@ -38,7 +38,7 @@ export default function Info1() {
                     layout='responsive'
                     width={150}
                     height={100}
-                    alt="Logo da Amil dental"
+                    alt="Imagem ilustrativa"
                 />
             </div>
         </div>

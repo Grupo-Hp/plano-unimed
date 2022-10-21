@@ -8,7 +8,7 @@ export default function Info2() {
                 <h4 className="text-md font-medium uppercase">atendimento grande rio e capital</h4>
                 <h1 className="text-3xl xl:text-5xl font-light py-6 text-primary-10">Equipe preparada e com a melhor consultoria do Rio de Janeiro</h1>
                 <div className="md:w-8/12 mx-auto mt-5">
-                    <p className="md:text-xl font-light">Consulte a linha completa Amil Familiar, Empresarial e Odontológica.
+                    <p className="md:text-xl font-light">Consulte a linha completa Unimed Familiar, Empresarial e Odontológica.
                         Desconto especial para novos clientes e cotação online com a nossa equipe.
                     </p>
                     <div className="my-16">
