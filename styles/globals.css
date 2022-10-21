@@ -1,3 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.contatoImage3 {
+    background-image: url('../public/images/imageInfo1.jpg');
+    background-position: left;
+    background-size: cover;
+}
+
+.headerImage1 {
+    background-image: url('../public/images/telemedicina.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.rgba-10 {
+    background-color: rgba(0, 153, 93, 0.5);
+    /* background-color: rgb(10, 95, 85, 0.5); */
+}

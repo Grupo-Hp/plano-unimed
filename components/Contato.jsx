@@ -74,7 +74,7 @@ export default function Contato(props) {
                     <h2 className='text-4xl font-bold mb-10 '>A Amil tem o plano certo para você viver o seu melhor.</h2>
                     <p className='text-2xl'>Planos com flexibilidade para o cuidado certo</p>
                     <div className='flex place-content-evenly my-10'>
-                        <div className='mx-5'>
+                        {/* <div className='mx-5'>
                             <Image
                                 src="/images/amilbranco.png"
                                 //layout='responsive'
@@ -92,7 +92,7 @@ export default function Contato(props) {
                                 height={100}
                                 alt="Logo da Amil dental"
                             />
-                        </div>
+                        </div> */}
                     </div>
                 </div>
                 <div className="col-span-2 lg:col-span-1">
