@@ -1,3 +1,4 @@
+import Page from '../components/Page'
 import Faixa1 from '../components/Faixa1'
 import Faixa2 from '../components/Faixa2'
 import Footer from '../components/Footer'
@@ -11,7 +12,7 @@ import Contato from '../components/Contato'
 
 export default function Home() {
   return (
-    <>
+    <Page title="Plano de Saúde Unimed Rio" description="Todos os planos de saúde Unimed e simulador de planos de saúde online" path="/">
       <Nav />
       <Header />
       <Faixa1 />
@@ -22,6 +23,6 @@ export default function Home() {
       <Info3 />
       <Contato button='enviar' display='hidden' />
       <Footer />
-    </>
+    </Page>
   )
 }
