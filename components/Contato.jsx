@@ -59,6 +59,7 @@ export default function Contato(props) {
             empresa: 'Unimed',
             imagem: 'Hpcap',
             site: 'https://www.hpcap.com.br/',
+            contact: 'planounimedrio',
         }
     });
 
@@ -68,10 +69,10 @@ export default function Contato(props) {
                 <div className={`col-span-2 mb-28 text-white text-center ${props.display}`}>
                     <h2 className='text-4xl font-bold mb-5'>Cotação de Planos de Saúde Rio de Janeiro.
                         Preço na Hora!</h2>
-                    <p className='text-xl'>Todos os planos de saúde amil e simulador de planos de saúde online</p>
+                    <p className='text-xl'>Todos os planos de saúde Unimed e simulador de planos de saúde online</p>
                 </div>
                 <div className="text-center sm:w-2/3 m-auto col-span-2 lg:col-span-1 text-white">
-                    <h2 className='text-4xl font-bold mb-10 '>A Amil tem o plano certo para você viver o seu melhor.</h2>
+                    <h2 className='text-4xl font-bold mb-10 '>A Unimed tem o plano certo para você viver o seu melhor.</h2>
                     <p className='text-2xl'>Planos com flexibilidade para o cuidado certo</p>
                     <div className='flex place-content-evenly my-10'>
                         {/* <div className='mx-5'>
@@ -80,7 +81,7 @@ export default function Contato(props) {
                                 //layout='responsive'
                                 width={150}
                                 height={60}
-                                alt="Logo da Amil saúde"
+                                alt="Logo da Unimed saúde"
 
                             />
                         </div>
@@ -90,7 +91,7 @@ export default function Contato(props) {
                                 //layout='responsive'
                                 width={150}
                                 height={100}
-                                alt="Logo da Amil dental"
+                                alt="Logo da Unimed dental"
                             />
                         </div> */}
                     </div>
